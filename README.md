@@ -1,5 +1,4 @@
-
-Smart Consultation of Colombia National Development Plan
+# Smart Consultation of Colombia National Development Plan
 
 This project presents the development of an intelligent query tool that leverages Retrieval Augmented Generation (RAG) to provide context-aware, natural language answers from the [National Development Plan of Colombia (2022-2026)](https://colaboracion.dnp.gov.co/CDT/Prensa/Publicaciones/plan-nacional-de-desarrollo-2022-2026-colombia-potencia-mundial-de-la-vida.pdf).
 
